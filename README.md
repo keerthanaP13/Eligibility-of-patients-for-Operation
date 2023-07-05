@@ -1,4 +1,4 @@
-# Eligibility-of-patients-for-Operation
+# Eligibility-of-patients-for-Operation Analysis
 
 Eligibility of patients for operation without outliersEligibility of patients for operation without outliers
 Logistic regression is a linear model but with a nonlinear response. The response is binary, { 0, 1 }, or Yes and No. The response is the prediction of the category.
